@@ -1,0 +1,50 @@
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.AssemblyInfo.cs
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Database Backup.exe
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Database Backup.deps.json
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Database Backup.runtimeconfig.json
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Database Backup.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Database Backup.pdb
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Azure.Core.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Azure.Identity.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.csproj.CopyComplete
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\refint\Database Backup.dll
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.pdb
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\Database Backup.genruntimeconfig.cache
+D:\Visual Studio Projects\Database Backup\Database Backup\obj\Debug\net7.0\ref\Database Backup.dll
